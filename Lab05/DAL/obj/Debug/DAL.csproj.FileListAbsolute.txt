@@ -1,0 +1,12 @@
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\bin\Debug\DAL.dll.config
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\bin\Debug\DAL.dll
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\bin\Debug\DAL.pdb
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\bin\Debug\EntityFramework.dll
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\bin\Debug\EntityFramework.xml
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\obj\Debug\DAL.dll
+E:\Nam_3_2023_2024\Th_LapTrinhWin\Lab05\DAL\obj\Debug\DAL.pdb
